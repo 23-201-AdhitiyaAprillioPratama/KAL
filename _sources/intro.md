@@ -1,7 +1,11 @@
 # welcome to materi komputasi aljabar linier
 
-Sistem persamaan linier
-Check out the content pages bundled with this sample book to see more.
+##bio data diri
+Nama : Adhitiya Aprillio Pratama
+Nim  : 230411100201
+Prodi: Teknik informatika 
+Kelas: Komputasi Aljabar Linier D
+Hobi : Hiking 
 
 ```{tableofcontents}
 ```
