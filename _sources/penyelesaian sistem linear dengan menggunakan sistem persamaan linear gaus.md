@@ -128,7 +128,7 @@ $$ 2 x+y-z=3 $$
 Substitusi:
 
 
-2 $$ \cdot \frac{5}{3}+\frac{7}{3}-\frac{8}{3}=\frac{10}{3}+\frac{7}{3}-\frac{8}{3}=\frac{9}{3}=3 $$
+$$ 2  \cdot \frac{5}{3}+\frac{7}{3}-\frac{8}{3}=\frac{10}{3}+\frac{7}{3}-\frac{8}{3}=\frac{9}{3}=3 $$
 
 3. Persamaan 3:
 
