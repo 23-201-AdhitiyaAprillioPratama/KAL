@@ -1,6 +1,6 @@
 # welcome to materi komputasi aljabar linier
 
-##bio data diri
+# bio data diri
 
 Nama : Adhitiya Aprillio Pratama
 
