@@ -3,7 +3,7 @@ title: INVERS MATRIK
 
 ---
 
-# INVERS MATRIK 
+## INVERS MATRIK 
 ### Definisi Matriks Invers
 
 Matriks invers adalah matriks yang jika dikalikan dengan matriks aslinya menghasilkan matriks identitas.
