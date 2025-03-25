@@ -71,7 +71,7 @@ $$
 ### Langkah 1: Bentuk Augmented Matrix $[A \mid I]$
 
 $$
-[A \mid I]=\left[ \begin{array}{ccc|ccc}
+[A \mid I] =\left[ \begin{array}{ccc|ccc}
 2 & -1 & 1 & 1 & 0 & 0 \\
 1 & 1 & -1 & 0 & 1 & 0 \\
 3 & 2 & 1 & 0 & 0 & 1
@@ -80,7 +80,7 @@ $$
 
 ### Langkah 2: Buat Elemen (1,1) Menjadi 1
 
-##### Bagi baris pertama dengan 2:
+Bagi baris pertama dengan 2:
 
 $$ R_1 \leftarrow \frac{1}{2} R_1 $$
 
@@ -114,7 +114,7 @@ $$
 
 ### Langkah 4: Buat Elemen (2,2) Menjadi 1
 
-##### Bagi baris kedua dengan $\frac{3}{2}$ :
+Bagi baris kedua dengan $\frac{3}{2}$ :
 
 $$ R_2 \leftarrow \frac{2}{3} R_2 $$
 
@@ -129,7 +129,7 @@ $$
 \end{array} \right]
 $$
 
-##### Langkah 5: Nol-kan Elemen di Bawah (2,2)
+#### Langkah 5: Nol-kan Elemen di Bawah (2,2)
 
 
 $$ R_3 \leftarrow R_3 - \frac{7}{2} R_2 $$
@@ -145,7 +145,7 @@ $$
 \end{array} \right]
 $$ 
 
-#### Langkah 6: Buat Elemen (3,3) Menjadi 1
+### Langkah 6: Buat Elemen (3,3) Menjadi 1
 
 ##### Bagi baris ketiga dengan $\frac{5}{2}$:
 
@@ -162,7 +162,7 @@ $$
 \end{array} \right]
 $$
 
-#### Langkah 7: Nol-kan Elemen di Atas (3,3)
+### Langkah 7: Nol-kan Elemen di Atas (3,3)
 
 
 $$ R_1 \leftarrow R_1 - \frac{1}{2} R_3, \quad R_2 \leftarrow R_2 + R_3 $$
@@ -178,7 +178,7 @@ $$
 \end{array} \right]
 $$
 
-#### Langkah 8: Matriks Identitas Diperoleh
+### Langkah 8: Matriks Identitas Diperoleh
 
 Maka inversnya adalah:
 
@@ -190,7 +190,7 @@ A^{-1} = \left[ \begin{array}{ccc}
 \end{array} \right]
 $$
 
-#### Langkah 9: Hitung $A^{-1} \times B$
+### Langkah 9: Hitung $A^{-1} \times B$
 
 $$
 A^{-1} \times B = \left[ \begin{array}{c}1 \\ 0 \\ 0\end{array} \right]
