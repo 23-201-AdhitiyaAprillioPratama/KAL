@@ -40,6 +40,9 @@ $$
 2 & 3 & 4 \\
 5 & 6 & 7 \\
 \end{vmatrix}
+$$
+
+$$
 = (3 \cdot 7 - 4 \cdot 6)\hat{i} - (2 \cdot 7 - 4 \cdot 5)\hat{j} + (2 \cdot 6 - 3 \cdot 5)\hat{k}
 \]
 \[
